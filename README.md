@@ -26,8 +26,3 @@
 - **Mobile:** +91-6207115934
 
 ---
-
-### My Pinned Repositories
-
-- [**Project 1**](link-to-repo)
-  - Description of Project 1
