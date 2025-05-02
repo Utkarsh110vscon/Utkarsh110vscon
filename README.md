@@ -34,6 +34,9 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Redux%20Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit" />
   <img src="https://img.shields.io/badge/React%20Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Context API" />
+  <img src="https://img.shields.io/badge/ES6-4A90E2?style=for-the-badge&logo=javascript&logoColor=white" alt="ES6" />
+  <img src="https://img.shields.io/badge/MVC%20Architecture-00A9E0?style=for-the-badge&logo=architectural%20design&logoColor=white" alt="MVC Architecture" />
+  
 </p>
 <!-- Contact Section -->
 <h2 align="center">📫 How to Reach Me</h2>
