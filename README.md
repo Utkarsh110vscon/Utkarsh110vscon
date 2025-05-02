@@ -44,13 +44,16 @@
 <!-- GitHub Stats (Optional) -->
 <h2 align="center">🔥 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Utkarsh110vscon&show_icons=true&theme=radical" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh110vscon&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Utkarsh110vscon&show_icons=true&theme=radical" alt="Utkarsh's GitHub Stats" height="180" />
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh110vscon&layout=compact&theme=radical" alt="Utkarsh's Top Languages" height="180"/>
 </p>
 
-<!-- Optional: Profile Views Badge -->
+<!-- Profile Views Badge -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Utkarsh110vscon&label=Profile%20views&color=blue&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Utkarsh110vscon&label=Profile%20views&color=blue&style=flat" alt="Utkarsh's Profile Views" />
 </p>
 
 <!-- Footer Banner (Optional) -->
