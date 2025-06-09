@@ -48,10 +48,7 @@
 
 <!-- GitHub Stats (Optional) -->
 <h2 align="center">🔥 GitHub Stats</h2>
-<p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Utkarsh110vscon&show_icons=true&theme=radical" alt="Utkarsh's GitHub Stats" height="180" />
-  
+<p align="center"> 
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh110vscon&layout=compact&theme=radical" alt="Utkarsh's Top Languages" height="180"/>
 </p>
